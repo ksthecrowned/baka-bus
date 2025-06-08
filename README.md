@@ -104,8 +104,6 @@ Design et prompt initial généré avec l'aide de **ChatGPT + Bolt.new**
 - [ ] Ajout de la géolocalisation facultative
 - [ ] Statistiques publiques par ligne
 - [ ] Modération participative
-- [ ] Dark mode personnalisé
-- [ ] Traductions communautaires
 
 ---
 
