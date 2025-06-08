@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "name": "Brazzaville",
+      "lines": [
+        "Taxi 1001 - Moukondo ↔ Plateau",
+        "Taxi 1030 - Talangaï ↔ Marché Total",
+        "Bus 200 - Kinsoundi ↔ Centre-ville",
+        "Minibus 50 - Makélékélé ↔ Moungali"
+      ]
+    },
+    {
+      "name": "Pointe-Noire",
+      "lines": [
+        "Taxi 101 - Tié-Tié ↔ Grand Marché",
+        "Bus 210 - Mpaka ↔ Côte Sauvage",
+        "Minibus 45 - Loandjili ↔ Mongo-Pokou"
+      ]
+    },
+    {
+      "name": "Dolisie",
+      "lines": [
+        "Taxi 10 - Nkombo ↔ Plateau Médical",
+        "Minibus 15 - Centre ↔ Quartier Congo"
+      ]
+    },
+    {
+      "name": "Owando",
+      "lines": [
+        "Minibus 5 - Aéroport ↔ Centre-ville"
+      ]
+    }
+  ]
+}
