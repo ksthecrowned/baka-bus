@@ -94,7 +94,7 @@ Les abus dans les transports en commun à Brazzaville sont fréquents et trop so
 
 ## ❤️ Crédits
 
-Développé par la communauté, initié par [Styve Maba](https://github.com/ksthecrowned)  
+Développé par la communauté, initié par [Kaiser Styve](https://github.com/ksthecrowned)  
 Design et prompt initial généré avec l'aide de **ChatGPT + Bolt.new**
 
 ---
